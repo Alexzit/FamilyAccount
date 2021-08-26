@@ -1,3 +1,4 @@
+package com.project01;
 import java.util.Scanner;
  
 /**
