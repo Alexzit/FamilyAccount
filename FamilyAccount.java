@@ -1,4 +1,4 @@
-package com.project01;
+package com.alexzit.project01;
 
 /**
  * @author Alex
